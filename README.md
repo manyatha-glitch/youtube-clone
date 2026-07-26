@@ -5,9 +5,9 @@ A frontend clone of YouTube built using HTML5 and CSS3. The project recreates th
 ## Live Demo
 
 [View Live Demo](https://manyatha-glitch.github.io/youtube-clone/)
-## Screenshot
 
-(Add a screenshot of your project here)
+
+![YouTube Clone](screenshot.png)
 
 ## Features
 
